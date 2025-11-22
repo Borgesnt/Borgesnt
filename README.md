@@ -29,7 +29,6 @@ Aqui você encontra meus estudos, projetos e experimentos com Kubernetes, Docker
 - DevOps focado em Kubernetes, Docker, CI/CD e automação  
 - Experiência com observabilidade: **Zabbix, Grafana, Prometheus**  
 - Redes: VLANs, pfSense, DNS, DHCP, Segurança  
-- Experiência com **Univention (UCS)** e integrações LDAP  
 - Apaixonado por alta disponibilidade, troubleshooting e performance  
 - Estudante de Redes de Computadores  
 
@@ -39,7 +38,7 @@ Aqui você encontra meus estudos, projetos e experimentos com Kubernetes, Docker
 
 ### ⚙️ Principais Tecnologias
 
-- **Containers & Orquestração:** Kubernetes • Minikube • Helm • ArgoCD  
+- **Containers & Orquestração:** Kubernetes  • Helm • ArgoCD  
 - **Infraestrutura:** Linux • Docker • Docker Compose • Firewalls  
 - **Automação & DevOps:** GitHub Actions • GitOps • Scripts  
 - **Observabilidade:** Zabbix • Grafana • Prometheus  
@@ -51,7 +50,7 @@ Aqui você encontra meus estudos, projetos e experimentos com Kubernetes, Docker
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoBorges&layout=compact&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borgesnt&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -59,7 +58,7 @@ Aqui você encontra meus estudos, projetos e experimentos com Kubernetes, Docker
 ## 🔥 Latest Commit Energy
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlfredoBorges&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Borgesnt&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -67,7 +66,7 @@ Aqui você encontra meus estudos, projetos e experimentos com Kubernetes, Docker
 ## 📈 Alfredo's GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AlfredoBorges&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Borgesnt&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -75,7 +74,7 @@ Aqui você encontra meus estudos, projetos e experimentos com Kubernetes, Docker
 ## 📌 Featured Projects
 
 ### 🔹 Kubernetes Labs  
-Ambiente para testes com Minikube, Helm e ArgoCD seguindo práticas GitOps.
+Ambiente para testes com Minikub, Helm e ArgoCD seguindo práticas GitOps.
 
 ### 🔹 pfSense + Zabbix Monitoring  
 Dashboard completo de WAN/LAN com gráficos, triggers e mapa de rede.
@@ -90,9 +89,9 @@ Scripts para notificação de expiração de senha e integração com serviços.
 
 ## 📬 Contact
 
-**GitHub:** https://github.com/AlfredoBorges  
-**E-mail:** *(adicione se quiser)*  
-**LinkedIn:** *(adicione quando criar)*  
+**GitHub:** https://github.com/Borgesnt  
+**LinkedIn:** www.linkedin.com/in/alfredontz
+
 
 ---
 
