@@ -1,64 +1,99 @@
-# Alfredo Borges  
-### DevOps Engineer | Kubernetes | Linux | Cloud | Observabilidade
+<!-- Header -->
+<h1 align="center">Hello, I'm Alfredo Borges 👋</h1>
+<h3 align="center">DevOps Engineer • Kubernetes • Cloud • Observabilidade • Linux</h3>
 
-Sou profissional de Infraestrutura e DevOps, com foco em automação, containers, redes e observabilidade. Trabalho construindo ambientes estáveis, escaláveis e seguros, aplicando boas práticas de CI/CD, GitOps, infraestrutura como código e monitoramento.
+<br>
 
----
+<!-- Visual Highlight (troque a imagem se quiser) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maykbrito/maykbrito/master/.github/assets/dev.gif" width="420px" />
+</p>
 
-## Sobre mim
+<p align="center">
+Sou apaixonado por infraestrutura, automação, DevOps, redes e observabilidade.  
+Aqui você encontra meus estudos, projetos e experimentos com Kubernetes, Docker, CI/CD, Zabbix, pfSense e muito mais.
+</p>
 
-- Experiência com Kubernetes (Minikube, Helm, ArgoCD)  
-- Infraestrutura Docker e clusters para testes e ambientes internos  
-- Monitoramento com Zabbix, Grafana e Prometheus  
-- Redes de computadores, VLANs, pfSense e segmentação  
-- LDAP/AD em ambientes UCS e integrações com aplicações  
-- Observabilidade e troubleshooting em ambientes Linux  
-- Estudando e aprimorando práticas de SRE e automação avançada
-
----
-
-## Tecnologias
-
-**Plataformas & Cloud**  
-Kubernetes • Minikube • ArgoCD • Helm • Docker • Docker Compose
-
-**Infra & Redes**  
-Linux • pfSense • VLANs • DNS • DHCP • Firewall
-
-**Observabilidade**  
-Zabbix • Grafana • Prometheus • Alertas e Mapas de Rede
-
-**DevOps & Automação**  
-GitHub Actions • IaC • Pipelines • CI/CD
-
----
-
-## Projetos em Destaque
-
-### Kubernetes Labs  
-Ambiente completo de testes utilizando Minikube, Helm e ArgoCD para deploy de aplicações através de GitOps.
-
-### UCS LDAP Server  
-Configuração de um servidor Univention para autenticação centralizada, incluindo scripts de notificação de expiração de senha.
-
-### Monitoramento pfSense + Zabbix  
-Coleta e visualização de throughput e latência das interfaces WAN, com mapa detalhado no Zabbix.
-
-### Stack Docker para Segurança e Proxy  
-Deploy integrado usando CrowdSec, Nginx Proxy Manager e bouncer para proteção e análise de tráfego.
-
----
-
-## Estatísticas do GitHub
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AlfredoBorges&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoBorges&layout=compact&theme=default" />
+<p align="center">
+    <img src="https://img.shields.io/badge/DevOps-000?style=flat-square&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zabbix-c40000?style=flat-square&logo=zabbix&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
 ---
 
-## Contato
+## 🧑‍💻 About Me
+
+- DevOps focado em Kubernetes, Docker, CI/CD e automação  
+- Experiência com observabilidade: **Zabbix, Grafana, Prometheus**  
+- Redes: VLANs, pfSense, DNS, DHCP, Segurança  
+- Experiência com **Univention (UCS)** e integrações LDAP  
+- Apaixonado por alta disponibilidade, troubleshooting e performance  
+- Estudante de Redes de Computadores  
+
+---
+
+## 🚀 Tech Stack Highlights
+
+### ⚙️ Principais Tecnologias
+
+- **Containers & Orquestração:** Kubernetes • Minikube • Helm • ArgoCD  
+- **Infraestrutura:** Linux • Docker • Docker Compose • Firewalls  
+- **Automação & DevOps:** GitHub Actions • GitOps • Scripts  
+- **Observabilidade:** Zabbix • Grafana • Prometheus  
+- **Networking:** pfSense • VLANs • Roteamento • DHCP  
+- **Serviços Corporativos:** LDAP • UCS  
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoBorges&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Latest Commit Energy
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlfredoBorges&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 📈 Alfredo's GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AlfredoBorges&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Kubernetes Labs  
+Ambiente para testes com Minikube, Helm e ArgoCD seguindo práticas GitOps.
+
+### 🔹 pfSense + Zabbix Monitoring  
+Dashboard completo de WAN/LAN com gráficos, triggers e mapa de rede.
+
+### 🔹 Infra Docker Stack  
+Stack com CrowdSec, Nginx Proxy Manager e integrações de segurança.
+
+### 🔹 Univention LDAP Automation  
+Scripts para notificação de expiração de senha e integração com serviços.
+
+---
+
+## 📬 Contact
 
 **GitHub:** https://github.com/AlfredoBorges  
-**LinkedIn:** *(adicione quando quiser)*  
+**E-mail:** *(adicione se quiser)*  
+**LinkedIn:** *(adicione quando criar)*  
+
+---
+
+<p align="center">Sempre aprendendo. Sempre construindo. 🔧</p>
