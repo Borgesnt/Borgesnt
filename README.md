@@ -1,49 +1,65 @@
 <!-- Header -->
 <h1 align="center">Hello, I'm Alfredo Borges 👋</h1>
-<h3 align="center">DevOps Engineer • Kubernetes • Cloud • Observabilidade • Linux</h3>
+<h3 align="center">
+DevOps Engineer • Kubernetes • Cloud • Observability • Linux • Networking
+</h3>
 
 <br>
 
-<!-- Visual Highlight (troque a imagem se quiser) -->
+<!-- Visual Highlight -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/maykbrito/maykbrito/master/.github/assets/dev.gif" width="420px" />
 </p>
 
 <p align="center">
-Sou apaixonado por infraestrutura, automação, DevOps, redes e observabilidade.  
-Aqui você encontra meus estudos, projetos e experimentos com Kubernetes, Docker, CI/CD, Zabbix, pfSense e muito mais.
+Apaixonado por <strong>infraestrutura, automação, DevOps, redes e observabilidade</strong>.  
+Aqui você encontra meus estudos, laboratórios e projetos práticos envolvendo ambientes reais de produção e laboratório.
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/DevOps-000?style=flat-square&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Zabbix-c40000?style=flat-square&logo=zabbix&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-000?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-c40000?style=flat-square&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- DevOps focado em Kubernetes, Docker, CI/CD e automação  
-- Experiência com observabilidade: **Zabbix, Grafana, Prometheus**  
-- Redes: VLANs, pfSense, DNS, DHCP, Segurança  
-- Apaixonado por alta disponibilidade, troubleshooting e performance  
-- Estudante de Redes de Computadores  
+- DevOps Engineer com foco em **Kubernetes, Containers e Automação**
+- Experiência prática com **CI/CD, GitOps e Infraestrutura como Código**
+- Forte atuação em **observabilidade e monitoramento**  
+  (**Zabbix, Grafana, Prometheus**)
+- Background sólido em **redes e segurança**  
+  (VLANs, pfSense, DNS, DHCP, Firewall)
+- Interesse contínuo em **alta disponibilidade, troubleshooting e performance**
+- 🎓 Estudante de **Redes de Computadores**
 
 ---
 
 ## 🚀 Tech Stack Highlights
 
-### ⚙️ Principais Tecnologias
+### ⚙️ Core Technologies
 
-- **Containers & Orquestração:** Kubernetes  • Helm • ArgoCD  
-- **Infraestrutura:** Linux • Docker • Docker Compose • Firewalls  
-- **Automação & DevOps:** GitHub Actions • GitOps • Scripts  
-- **Observabilidade:** Zabbix • Grafana • Prometheus  
-- **Networking:** pfSense • VLANs • Roteamento • DHCP  
-- **Serviços Corporativos:** LDAP • UCS  
+- **Containers & Orquestration:**  
+  Kubernetes • Helm • ArgoCD • Docker
+
+- **Infrastructure & OS:**  
+  Linux • Docker Compose • Firewalls • Virtualização
+
+- **DevOps & Automation:**  
+  GitHub Actions • GitOps • Shell Scripts • Ansible
+
+- **Observability & Monitoring:**  
+  Zabbix • Grafana • Prometheus
+
+- **Networking & Security:**  
+  pfSense • VLANs • Routing • DHCP • WAF
+
+- **Enterprise Services:**  
+  LDAP • Univention Corporate Server (UCS)
 
 ---
 
@@ -55,7 +71,7 @@ Aqui você encontra meus estudos, projetos e experimentos com Kubernetes, Docker
 
 ---
 
-## 🔥 Latest Commit Energy
+## 🔥 Consistency & Activity
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Borgesnt&theme=dark&hide_border=true" />
@@ -63,7 +79,7 @@ Aqui você encontra meus estudos, projetos e experimentos com Kubernetes, Docker
 
 ---
 
-## 📈 Alfredo's GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Borgesnt&show_icons=true&theme=dark&hide_border=true" />
@@ -73,26 +89,27 @@ Aqui você encontra meus estudos, projetos e experimentos com Kubernetes, Docker
 
 ## 📌 Featured Projects
 
-### 🔹 Kubernetes Labs  
-Ambiente para testes com Minikub, Helm e ArgoCD seguindo práticas GitOps.
+### 🔹 Kubernetes Labs
+Ambiente de laboratório com **Minikube, Helm e ArgoCD**, aplicando práticas de **GitOps** e automação.
 
-### 🔹 pfSense + Zabbix Monitoring  
-Dashboard completo de WAN/LAN com gráficos, triggers e mapa de rede.
+### 🔹 pfSense + Zabbix Monitoring
+Monitoramento completo de **WAN/LAN**, com dashboards, triggers, mapas de rede e alertas.
 
-### 🔹 Infra Docker Stack  
-Stack com CrowdSec, Nginx Proxy Manager e integrações de segurança.
+### 🔹 Secure Docker Stack
+Stack Docker com **CrowdSec, Nginx Proxy Manager** e integrações focadas em segurança.
 
-### 🔹 Univention LDAP Automation  
-Scripts para notificação de expiração de senha e integração com serviços.
+### 🔹 Univention LDAP Automation
+Automação de tarefas em **LDAP/UCS**, incluindo scripts para expiração de senha e integrações corporativas.
 
 ---
 
 ## 📬 Contact
 
-**GitHub:** https://github.com/Borgesnt  
-**LinkedIn:** www.linkedin.com/in/alfredontz
-
+- **GitHub:** https://github.com/Borgesnt  
+- **LinkedIn:** https://www.linkedin.com/in/alfredontz  
 
 ---
 
-<p align="center">Sempre aprendendo. Sempre construindo. 🔧</p>
+<p align="center">
+<strong>Always learning. Always building. 🔧</strong>
+</p>
