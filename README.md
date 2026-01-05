@@ -12,8 +12,8 @@ DevOps Engineer • Kubernetes • Cloud • Observability • Linux • Network
 </p>
 
 <p align="center">
-Apaixonado por <strong>infraestrutura, automação, DevOps, redes e observabilidade</strong>.  
-Aqui você encontra meus estudos, laboratórios e projetos práticos envolvendo ambientes reais de produção e laboratório.
+Passionate about <strong>infrastructure, automation, DevOps, networking, and observability</strong>.  
+Here you will find my studies, labs, and hands-on projects focused on real-world and production-like environments.
 </p>
 
 <p align="center">
@@ -26,16 +26,16 @@ Aqui você encontra meus estudos, laboratórios e projetos práticos envolvendo 
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- DevOps Engineer com foco em **Kubernetes, Containers e Automação**
-- Experiência prática com **CI/CD, GitOps e Infraestrutura como Código**
-- Forte atuação em **observabilidade e monitoramento**  
+- DevOps Engineer focused on **Kubernetes, Containers, and Automation**
+- Hands-on experience with **CI/CD pipelines, GitOps, and Infrastructure as Code**
+- Strong background in **observability and monitoring**  
   (**Zabbix, Grafana, Prometheus**)
-- Background sólido em **redes e segurança**  
-  (VLANs, pfSense, DNS, DHCP, Firewall)
-- Interesse contínuo em **alta disponibilidade, troubleshooting e performance**
-- 🎓 Estudante de **Redes de Computadores**
+- Solid knowledge of **networking and security**  
+  (VLANs, pfSense, DNS, DHCP, Firewalls)
+- Passionate about **high availability, troubleshooting, and performance optimization**
+- 🎓 Computer Networks student
 
 ---
 
@@ -43,14 +43,14 @@ Aqui você encontra meus estudos, laboratórios e projetos práticos envolvendo 
 
 ### ⚙️ Core Technologies
 
-- **Containers & Orquestration:**  
+- **Containers & Orchestration:**  
   Kubernetes • Helm • ArgoCD • Docker
 
 - **Infrastructure & OS:**  
-  Linux • Docker Compose • Firewalls • Virtualização
+  Linux • Docker Compose • Firewalls • Virtualization
 
 - **DevOps & Automation:**  
-  GitHub Actions • GitOps • Shell Scripts • Ansible
+  GitHub Actions • GitOps • Shell Scripting • Ansible
 
 - **Observability & Monitoring:**  
   Zabbix • Grafana • Prometheus
@@ -90,16 +90,16 @@ Aqui você encontra meus estudos, laboratórios e projetos práticos envolvendo 
 ## 📌 Featured Projects
 
 ### 🔹 Kubernetes Labs
-Ambiente de laboratório com **Minikube, Helm e ArgoCD**, aplicando práticas de **GitOps** e automação.
+Lab environment using **Minikube, Helm, and ArgoCD**, applying **GitOps best practices** and automation workflows.
 
 ### 🔹 pfSense + Zabbix Monitoring
-Monitoramento completo de **WAN/LAN**, com dashboards, triggers, mapas de rede e alertas.
+Complete **WAN/LAN monitoring**, including dashboards, triggers, alerts, and network maps.
 
 ### 🔹 Secure Docker Stack
-Stack Docker com **CrowdSec, Nginx Proxy Manager** e integrações focadas em segurança.
+Docker stack with **CrowdSec, Nginx Proxy Manager**, and security-focused integrations.
 
 ### 🔹 Univention LDAP Automation
-Automação de tarefas em **LDAP/UCS**, incluindo scripts para expiração de senha e integrações corporativas.
+Automation scripts for **LDAP/UCS**, including password expiration notifications and service integrations.
 
 ---
 
