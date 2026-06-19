@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Alfredo Borges
 
-### DevOps Engineer | Kubernetes Specialist | Cloud & Observability Enthusiast
+
 
 <img src="https://raw.githubusercontent.com/maykbrito/maykbrito/master/.github/assets/dev.gif" width="400px" alt="Developer animation"/>
 
