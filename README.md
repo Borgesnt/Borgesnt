@@ -46,15 +46,15 @@ I'm a **SRE & DevOps Engineer at LetsCloud**, and a **Computer Networks student 
 | [Terraform Infrastructure Studies](https://github.com/Borgesnt/estudo-infra-terraform) | Infrastructure as Code practices |
 | [WAF Study](https://github.com/Borgesnt/WAF-Study) | Web application security exploration |
 
-### 📊 GitHub activity
+### 📈 Contribution Activity
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Borgesnt&theme=github-dark-blue&hide_border=true)
-
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Borgesnt&theme=github-compact&hide_border=true)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Borgesnt">
+    <img src="https://ghchart.rshah.org/38BDF8/Borgesnt"
+         alt="Alfredo Borges GitHub Contributions"
+         width="100%" />
+  </a>
+</p>
 
 ### 🤝 Connect
 
