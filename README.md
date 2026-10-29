@@ -1,61 +1,88 @@
 <div align="center">
 
+<sub>INFRASTRUCTURE / RELIABILITY / NETWORK ENGINEERING</sub>
+
 # Alfredo Borges
-### SRE & DevOps Engineer · Cloud Infrastructure · Automation
 
-*Building reliable, observable and secure infrastructure.*
+**SRE & DevOps Engineer**  ·  **Computer Networks**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredontz/)
-[![GitHub](https://img.shields.io/badge/GitHub-Borgesnt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Borgesnt)
+Building infrastructure that is **reliable by design, observable by default, and automated wherever possible.**
+
+[LinkedIn](https://www.linkedin.com/in/alfredontz/) &nbsp;·&nbsp; [Repositories](https://github.com/Borgesnt?tab=repositories) &nbsp;·&nbsp; [LetsCloud](https://www.letscloud.io/)
+
+<img src="https://img.shields.io/badge/LOCATION-BRAZIL-202833?style=flat-square&labelColor=101820" alt="Brazil" />
+<img src="https://img.shields.io/badge/ROLE-SRE%20%2F%20DEVOPS-202833?style=flat-square&labelColor=101820" alt="SRE / DevOps" />
+<img src="https://img.shields.io/badge/FOCUS-CLOUD%20%2B%20NETWORKS-202833?style=flat-square&labelColor=101820" alt="Cloud and Networks" />
 
 </div>
 
 ---
 
-### 👨‍💻 About me
+### 01 / Profile
 
-I'm a **SRE & DevOps Engineer at LetsCloud**, and a **Computer Networks student at the Federal University of Ceará (UFC)**. I work with cloud-native infrastructure, Linux, container orchestration, infrastructure automation, observability, and network security.
+I work as an **SRE & DevOps Engineer at LetsCloud** and study **Computer Networks at the Federal University of Ceará (UFC)**. My background bridges traditional network engineering and cloud-native operations: from routing, firewalls, virtualization and directory services to Kubernetes, GitOps and production observability.
 
-- ☁️ Focused on **reliability, automation, scalability and cost efficiency**.
-- ⚙️ Working with **Kubernetes, Docker, CI/CD and GitOps**.
-- 📈 Building monitoring and troubleshooting workflows with **Zabbix, Grafana, Prometheus and Loki**.
-- 🛡️ Bringing a strong **networking and security** foundation to infrastructure engineering.
-- 🎓 **FinOps Certified Practitioner** — The Linux Foundation.
+I enjoy turning complex infrastructure into systems that are easier to deploy, troubleshoot, secure and operate.
 
-### 🧰 Technology stack
+```text
+ NETWORK & SECURITY            PLATFORM & AUTOMATION           OPERATIONS & RELIABILITY
+ ──────────────────            ─────────────────────           ────────────────────────
+ Routing / Switching     ────>  Linux / Proxmox          ────>   Monitoring / Alerting
+ Firewalls / VPNs        ────>  Docker / Kubernetes      ────>   Incident Troubleshooting
+ LDAP / Identity         ────>  Terraform / Ansible      ────>   GitOps / Continuous Improvement
+```
 
-**Containers & GitOps**  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+### 02 / Technical landscape
 
-**Automation & IaC**  
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<table>
+<tr><td width="29%"><strong>Networks & Security</strong></td><td>pfSense · VLANs · OSPF · IPsec · WireGuard · OpenVPN · NGINX · Traefik · CrowdSec</td></tr>
+<tr><td><strong>Virtualization & Systems</strong></td><td>Proxmox VE · Linux · Debian · Ubuntu · Docker · Podman</td></tr>
+<tr><td><strong>Identity & Infrastructure</strong></td><td>LDAP · Univention Corporate Server · NetBox · DNS · DHCP · IPAM</td></tr>
+<tr><td><strong>Containers & GitOps</strong></td><td>Kubernetes · Helm · Argo CD · Kustomize · GitHub Actions · GitLab CI</td></tr>
+<tr><td><strong>Automation & IaC</strong></td><td>Terraform · Ansible · Python · Bash · Git</td></tr>
+<tr><td><strong>Observability</strong></td><td>Zabbix · Grafana · Prometheus · Loki · Elasticsearch</td></tr>
+<tr><td><strong>Cloud & Cost</strong></td><td>AWS · Google Cloud · FinOps principles</td></tr>
+</table>
 
-**Observability**  
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square) ![Loki](https://img.shields.io/badge/Loki-2C3E50?style=flat-square)
+### 03 / Selected engineering work
 
-**Infrastructure & Networking**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square)
+| Repository | Engineering focus |
+|:--|:--|
+| [k8s-hpa-performance-study](https://github.com/Borgesnt/k8s-hpa-performance-study) | Kubernetes autoscaling, metrics and performance analysis |
+| [netbox-importer](https://github.com/Borgesnt/netbox-importer) | Network inventory and IPAM automation |
+| [vm-creation-automation-for-netbox](https://github.com/Borgesnt/vm-creation-automation-for-netbox) | Virtual machine lifecycle and infrastructure inventory |
+| [estudo-infra-terraform](https://github.com/Borgesnt/estudo-infra-terraform) | Infrastructure as Code and repeatable provisioning |
+| [WAF-Study](https://github.com/Borgesnt/WAF-Study) | Web application security and traffic protection |
 
-### 🚀 Selected projects
+<details>
+<summary><strong>Additional areas of hands-on experience</strong></summary>
 
-| Project | What it demonstrates |
-|---|---|
-| [Kubernetes HPA Performance Study](https://github.com/Borgesnt/k8s-hpa-performance-study) | Kubernetes autoscaling and performance analysis |
-| [NetBox Importer](https://github.com/Borgesnt/netbox-importer) | Network inventory and IPAM automation |
-| [VM Creation Automation for NetBox](https://github.com/Borgesnt/vm-creation-automation-for-netbox) | Infrastructure provisioning and inventory integration |
-| [Terraform Infrastructure Studies](https://github.com/Borgesnt/estudo-infra-terraform) | Infrastructure as Code practices |
-| [WAF Study](https://github.com/Borgesnt/WAF-Study) | Web application security exploration |
+- **Network engineering:** segmented networks, routing, NAT, VPN connectivity and firewall policy design.
+- **Identity services:** LDAP administration and directory-service automation.
+- **Platform operations:** container deployments, ingress, certificates and GitOps workflows.
+- **Monitoring:** alert triage, dashboards, infrastructure metrics and troubleshooting workflows.
 
-### 📈 Contribution Activity
+</details>
 
-<p align="center">
-  <a href="https://github.com/Borgesnt">
-    <img src="https://ghchart.rshah.org/38BDF8/Borgesnt"
-         alt="Alfredo Borges GitHub Contributions"
-         width="100%" />
-  </a>
-</p>
+### 04 / Credentials & education
 
-### 🤝 Connect
+**FinOps Certified Practitioner** — The Linux Foundation  
+**AWS Academy Graduate — Cloud Foundations** — AWS Academy  
+**Computer Networks** — Federal University of Ceará (UFC)
 
-Interested in **DevOps, SRE, Kubernetes, observability, networking, and cloud infrastructure**? Feel free to connect on [LinkedIn](https://www.linkedin.com/in/alfredontz/) or explore my [repositories](https://github.com/Borgesnt?tab=repositories).
+### 05 / Activity
+
+My [GitHub contribution history](https://github.com/Borgesnt?tab=overview&from=2026-01-01&to=2026-12-31) and [public repositories](https://github.com/Borgesnt?tab=repositories) provide a view of my ongoing work.
+
+<!-- The native GitHub contribution calendar is shown automatically on the profile.
+     Avoid third-party activity graph images that may fail with HTTP 402. -->
+
+---
+
+<div align="center">
+
+<sub>ENGINEER SYSTEMS. AUTOMATE OPERATIONS. KEEP LEARNING.</sub>
+
+[github.com/Borgesnt](https://github.com/Borgesnt) &nbsp; / &nbsp; [linkedin.com/in/alfredontz](https://www.linkedin.com/in/alfredontz/)
+
+</div>
